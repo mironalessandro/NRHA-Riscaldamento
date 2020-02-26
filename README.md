@@ -5,5 +5,6 @@ Gestione del riscaldamento Tramite presenza e DarkSky
 
 ### About
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+
+Project Dependencies
+Each project has its own package.json file that includes a list of node modules the project depends on. The Node-RED editor tracks what nodes you are using in a flow and helps you to keep that list of dependencies up to date.
