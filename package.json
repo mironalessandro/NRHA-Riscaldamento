@@ -1,0 +1,12 @@
+{
+    "name": "Riscaldamento",
+    "description": "Gestione del riscaldamento Tramite presenza e DarkSky",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow1.json",
+            "credentialsFile": "flow1_cred.json"
+        }
+    }
+}
